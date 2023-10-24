@@ -17,7 +17,7 @@ Abrir o navegador
 
 Fechar o navegador
     Capture page Screenshot
-#    Close Browser
+    Close Browser
 
 Acessar a home page do site Amazon.com.br
 #    go to  url=${URL}
